@@ -30,6 +30,7 @@
   - [Очистка и сохранение](cross-compiler/cleanup.md)
   - [Объявление дополнительных переменных](cross-compiler/env.md)
 - [Сборка базовой системы](base/README.md)
+  - [Настройка rustup](base/set-rustup.md)
   - [Создание файлов и каталогов](base/create-files.md)
   - [libgcc](base/libgcc.md)
   - [musl](base/musl.md)
